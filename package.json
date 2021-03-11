@@ -26,7 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "jenkins": "^0.25.0"
+    "jenkins": "^0.28.1"
   },
   "devDependencies": {
     "@types/jenkins": "^0.23.1",
